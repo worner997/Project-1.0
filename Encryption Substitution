@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main()  
+{
+char message[100], character;
+int count, key;
+
+printf("Enter your message to encrypt: ");
+gets(message);
+    
+}
