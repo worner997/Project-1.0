@@ -1,6 +1,6 @@
 #include <stdio.h>
 //Rotation Cipher encryption
-
+//
 int main()
 {
    char message[100], character;
